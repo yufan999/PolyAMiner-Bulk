@@ -1,3 +1,4 @@
+https://github.com/YalamanchiliLab/PolyAMiner-Bulk/blob/master/lib/GenePolyAIndex.py
 这段代码的核心目标是：**在基因层面量化APA（Alternative Polyadenylation）位点的“长度变化趋势”（lengthening vs shortening）**，并输出一个叫 **PolyA Index（PA index）** 的指标，用来比较两组样本（比如 control vs treatment）之间的差异。
 
 我直接把你关心的重点拆开讲👇
